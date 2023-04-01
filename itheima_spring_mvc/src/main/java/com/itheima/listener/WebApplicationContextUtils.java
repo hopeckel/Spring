@@ -1,3 +1,4 @@
+/**
 package com.itheima.listener;
 
 import org.springframework.context.ApplicationContext;
@@ -9,3 +10,4 @@ public class WebApplicationContextUtils {
         return (ApplicationContext) servletContext.getAttribute("app");
     }
 }
+ */
